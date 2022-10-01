@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "SwagLabs Suite">
+	<test name = "Login">
+		<classes>
+			<class name = "testCases.LoginTestCase">	
+			</class>
+		</classes>
+	</test>
+	<test name = "Add Cart">
+		<classes>
+			<class name = "testCases.SelectTestCase">	
+			</class>
+		</classes>
+	</test>
+	
+	<test name = "Checkout">
+		<classes>
+			<class name = "testCases.CheckOutTestCase">	
+			</class>
+		</classes>
+	</test>
+	
+		<test name = "OrderConfirmation">
+		<classes>
+			<class name = "testCases.OrderConfirmationTestCase">	
+			</class>
+		</classes>
+	</test>
+	
+</suite>
